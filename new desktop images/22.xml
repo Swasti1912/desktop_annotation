@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new desktop images</folder>
+	<filename>22.PNG</filename>
+	<path>C:\Users\dell\Dropbox\My PC (DESKTOP-RO032N6)\Desktop\new_desktop_images\new desktop images\22.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>587</width>
+		<height>696</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>desktop</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>148</ymin>
+			<xmax>423</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>
